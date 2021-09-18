@@ -1,0 +1,29 @@
+user
+=====
+id
+first name
+last name
+user name
+address
+phone
+email
+
+product
+==============
+id
+product name
+product code
+product type -> buy/sell
+price
+quantity
+total price
+user id
+
+card
+=====
+product name
+product code
+price
+quantity
+total price
+user id
